@@ -1,0 +1,8 @@
+.landing-page{
+  background: url('ocean-float.jpeg') no-repeat center;
+  background-position: center center;
+  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  min-height: 100vh;
+
+}
