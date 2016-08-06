@@ -18,14 +18,15 @@ ul.topnav {
 }
 
 ul.topnav li {
-  float: left;
+  float: right;
+  padding-right: 20px;
 }
 
 ul.topnav li a{
   display: inline-block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 16px;
   text-decoration: none;
   transition: 0.3s;
   font-size: 17px;
