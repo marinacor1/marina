@@ -23,8 +23,8 @@ body {
 
 .typrr-burn {
   margin-top: 20px;
-  float: left;
   margin-left: 40px;
+  font-family: monospace !important;
 }
 
 .project-info {
