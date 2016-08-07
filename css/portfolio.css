@@ -1,26 +1,45 @@
+.project-page {
+  background: url('https://hd.unsplash.com/photo-1465420961937-e0eba4dda519') center;
+  background-position: center center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
 .info {
   font-family: "Permanent Marker", cursive;
   opacity: .9;
-  position: absolute;
+  /*position: absolute;*/
   top: 25%;
   left: 10%;
   width: 75%;
-  height: 70%;
+  height: 100%;
   border: 1px solid #fff;
   z-index: 1;
   display: block;
   background-color: #54BABB;
+  color: black;
 }
 
 .title-proj {
-  font-family: "Permanent Marker", cursive;
-  font-weight: 500 !important;
+  font-family: "Permanent Marker", cursive !important;
+  font-weight: 700 !important;
   font-size: 200% !important;
   margin-top: 30px !important;
   padding-top: 30px;
+  color: black;
+  text-align: center;
 }
 
 .typrr-burn {
   margin-top: 20px;
   float: left;
+  margin-left: 40px;
+}
+
+.project-info {
+  padding: 20px;
+  margin: 20px;
+  text-align: left;
+  color: white;
+  background-color: #54BABB;
 }
