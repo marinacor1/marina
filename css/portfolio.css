@@ -1,0 +1,21 @@
+.info {
+  font-family: "Permanent Marker", cursive;
+  opacity: .9;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  width: 75%;
+  height: 70%;
+  border: 1px solid #fff;
+  z-index: 1;
+  display: block;
+  background-color: #54BABB;
+}
+
+.title-proj {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 500 !important;
+  font-size: 200% !important;
+  margin-top: 30px !important;
+  padding-top: 30px;
+}
