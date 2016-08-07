@@ -1,0 +1,27 @@
+.about {
+  opacity: .9;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  width: 75%;
+  height: 70%;
+  border: 1px solid #fff;
+  z-index: 1;
+  display: block;
+  background-color: #54BABB;
+}
+
+.photo {
+  background: url('https://s3-us-west-2.amazonaws.com/equilibrium-life-coaching/mcblack_white.png') no-repeat center;
+  height: 100%;
+  width: 30%;
+  position: inherit;;
+}
+
+.bio {
+  height: 100%;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+  float: right;
+}
