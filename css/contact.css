@@ -5,7 +5,7 @@
 }
 
 .fa {
-    color: black;
+  color: black;
 }
 
 .contact-info {
@@ -16,4 +16,22 @@
   margin: 40px;
   text-align: left;
   float: right;
+  color: black;
+}
+
+#icons {
+  position: absolute;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin:left: 270px;
+  width: 900px;
+}
+
+.icon {
+  margin: 20px;
+}
+
+.icon-mail {
+  position: relative;
+  margin: 0 auto;
 }
