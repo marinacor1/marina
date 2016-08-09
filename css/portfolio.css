@@ -4,3 +4,17 @@
   background-size: cover;
   min-height: 100vh;
 }
+
+
+.info {
+  opacity: .9;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  width: 75%;
+  height: 70%;
+  border: 1px solid #fff;
+  z-index: 1;
+  display: block;
+  background-color: #54BABB;
+}
