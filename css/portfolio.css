@@ -37,15 +37,31 @@
 .turing-connect {
   margin: 20px;
   float: left;
-  display: block;
+  width: 800px;
+  display: inline-block;
 }
 
-/*.turing-info {
+.turing-info {
   margin: 20px;
-  float: right;
+  float: left;
+  width: 500px;
   display: inline-block;
-}*/
+}
 
+
+.aibnbasement {
+  margin: 20px;
+  float: left;
+  width: 800px;
+  display: inline-block;
+}
+
+.air-info {
+  margin: 20px;
+  float: left;
+  width: 500px;
+  display: inline-block;
+}
 html {
   min-width: 100%;
   min-height: 100%;
