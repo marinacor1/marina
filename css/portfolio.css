@@ -5,7 +5,9 @@
   min-height: 100vh;
 }
 
-
+.typrr-burn {
+  float: left;
+}
 .info {
   font-family: 'Raleway', sans-serif ;
   opacity: .9;
@@ -21,5 +23,19 @@
 }
 
 .typr-info {
+  padding: 20px;
+  display: inline-block;
+  float: right;
+}
+
+.turing-connect {
+  padding: 20px;
+  float: left;
+  display: inline-block;
+}
+
+.turing-info {
+  padding: 20px;
+  float: right;
   display: inline-block;
 }
