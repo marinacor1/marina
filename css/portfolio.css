@@ -4,39 +4,47 @@
   min-height: 100vh;
 }*/
 
-.typrr-burn {
-  float: left;
-  margin: 0px;
-  display: inline-block;
-  padding-right: 20px;
-  padding-left: 20px;
-  width: 200px;
-}
-
 .info {
   font-family: 'Raleway', sans-serif ;
   opacity: .9;
-  position: absolute;
+  position: relative;
   top: 15%;
-  left: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 75%;
   height: 90%;
   border: 1px solid #fff;
-  z-index: 1;
-  display: block;
   background-color: #54BABB;
+  padding: 10px;
 }
 
-.typr-info {
-  /*margin: 20px;*/
-  display: inline-block;
-  margin-top: 50px;
-  margin-left: 150px;
-  padding-top: 30px;
-  padding-right: 30px;
-  float: left;
-  width: 500px;
+
+.project-box {
+
 }
+
+.project-row {
+  padding: 15px;
+  height: 200px;
+}
+
+.project-view {
+  width: 30%;
+  float: left;
+  margin-right: 20px;
+}
+
+.project-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.project-text {
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+
 
 .turing-connect {
   margin: 20px;
@@ -74,6 +82,6 @@ html {
 }
 
 body {
-  width: 100%;
-  height: 1054px;
+  /*width: 100%;*/
+  /*height: 1054px;*/
 }
